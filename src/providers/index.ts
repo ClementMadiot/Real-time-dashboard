@@ -1,0 +1,1 @@
+export * from './data' // export everything come from data folder 
